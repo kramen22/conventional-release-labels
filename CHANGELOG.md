@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/kramen22/conventional-release-labels/compare/v1.4.0...v1.4.1) (2025-03-21)
+
+
+### Bug Fixes
+
+* **update:** fix build ([#8](https://github.com/kramen22/conventional-release-labels/issues/8)) ([30b2abf](https://github.com/kramen22/conventional-release-labels/commit/30b2abff0259b01df11d02dea2d7c44365d9e113))
+
 ## [1.4.0](https://github.com/kramen22/conventional-release-labels/compare/v1.3.1...v1.4.0) (2024-06-20)
 
 
